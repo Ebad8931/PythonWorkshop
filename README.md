@@ -1,7 +1,8 @@
 # Python Workshop
 ## IEEE N2E Coding Club Python-for-beginners Workshop in Spring 2019 Semester at Rutgers University, New Brunswick 
 
-This is a beginner level Python course distributed in 5 parts. The source code used in the presentation slides is available in the repository and the links to the Presentations are shared below.
+This was a beginner level Python course distributed in 5 parts.   
+The source code used in the presentation slides is available in the repository and the links to the Presentations are shared below.
 
 ### Introduction to Python
 https://www.slideshare.net/EbadullahQureshi/01-introduction-to-python
